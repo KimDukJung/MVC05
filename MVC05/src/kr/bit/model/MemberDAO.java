@@ -2,8 +2,7 @@ package kr.bit.model;
 import java.io.InputStream;
 // JDBC->MyBatis
 import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
